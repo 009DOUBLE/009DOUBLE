@@ -14,4 +14,5 @@
 <br>
 <br>
 
-‎![009](https://spotify-recently-played-readme.vercel.app/api?user=td6g12hwovol297adsq86rb9h)
+
+‎![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=reyesDLX&header_style=compact_stats_only&bg_color=0d1117)
