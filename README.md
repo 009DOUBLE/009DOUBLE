@@ -12,7 +12,11 @@
 <br>
 <br>
 <br>
-<br>
 
+<p align="center">
+
+[Send Me Messages?](https://pub24.bravenet.com/guestbook/1992141624/)
+
+<br>
 
 ‎![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=reyesDLX&header_style=compact_stats_only&bg_color=0d1117)
